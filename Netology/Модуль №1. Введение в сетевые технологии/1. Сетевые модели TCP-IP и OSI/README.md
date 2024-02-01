@@ -13,7 +13,7 @@
 
 # Ответ: 
 
-# ![images 1](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/1.PNG)
+# ![images 1](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%961.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/1.%20%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20TCP-IP%20%D0%B8%20OSI/images/1.PNG)
 
 ### Задание 1 (Ethernet).
 
@@ -25,7 +25,7 @@
 
 # Ответ: 
 
-# ![images 2](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/2.png)
+# ![images 2](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%961.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/1.%20%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20TCP-IP%20%D0%B8%20OSI/images/2.png)
 
 - `c4:e9:1a:70:b1:ac` - Dlink
 
@@ -42,13 +42,13 @@
 ------
 
 # Ответ: 
-# ![images 3](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/3.PNG)
+# ![images 3](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%961.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/1.%20%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20TCP-IP%20%D0%B8%20OSI/images/3.PNG)
 На данном слайде отображены флаги:
 - `0... .... .... .... = Reserved bit: Not set` (Нулевой бит зарезервирован и должен быть всегда равен нулю.)
 - `.1.. .... .... .... = Don't fragment: Set` ( Второй бит высталенный в 1, указывает на то, что пакет запрещено фрагментировать. Если запрещена фрагментация пакета и их размер будет превышать максимально допустимый размер, то такие пакеты будут просто отбрасываться.)
 - `..0. .... .... .... = More fragments: Not set` ( Данный бит служит для того, чтобы узлы понимали, где начинается последовательность фрагментированных пакетов, а где она заканчивается, если значение этого бита равно единице, то этот пакет не последний и нужно ждать еще, в нашем случае это единственный пакет.) 
 
-# ![images 4](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/4.PNG)
+# ![images 4(https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%961.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/1.%20%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20TCP-IP%20%D0%B8%20OSI/images/4.PNG)
 - `0... .... .... .... = Reserved bit: Not set` (Нулевой бит зарезервирован и должен быть всегда равен нулю.)
 - `.0.. .... .... .... = Don't fragment: Set` ( Второй бит высталенный в 0, указывает на то, что пакет разрешено фрагментировать.)
 - `..0. .... .... .... = More fragments: Not set` (Единственный пакет.)
@@ -63,7 +63,7 @@
 
 ------
 # Ответ: 
-# ![images 5](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/5.PNG)
+# ![images 5](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%961.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/1.%20%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20TCP-IP%20%D0%B8%20OSI/images/5.PNG)
 
 - UDP отличается от TCP тем, что он не создает проверенное соединение, то есть не гарантирует доставку пакетов в целом состоянии. 
 Как видно из данных на скриншоте, UDP обладает упрощенными флагами заголовка, только порт назначения и порт источника, что подтверждает отсутствия налаживания связи. 
