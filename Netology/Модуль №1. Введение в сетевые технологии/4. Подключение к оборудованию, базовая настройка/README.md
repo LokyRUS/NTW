@@ -29,10 +29,10 @@
 
 Для подключения к консольному порту , потребуется один из консольных кабелей: 
 -  rj45  - FTDI rs232 - классический 
-# ![image1](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/1.PNG)
+# ![image1](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%961.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/4.%20%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E%2C%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0/images/1.PNG)
 
 - rj45  - FTDI rs232 - c USB конвектором
-# ![image2](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/2.PNG)
+# ![image2](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%961.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/4.%20%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E%2C%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0/images/2.PNG)
 
 И эмулятор терминала, например, Putty. 
 Важно : со стороны терминала, при подключении через консольный кабель, потребуются
@@ -125,14 +125,14 @@ Building configuration...
 Router#
 ```
 ### Нахначим нажешу хосту ip адресс
-# ![image3](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/3.PNG)
+# ![image3](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%961.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/4.%20%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E%2C%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0/images/3.PNG)
 
 ## Получившаяся топология
-# ![image4](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/4.PNG)
+# ![image4](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%961.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/4.%20%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E%2C%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0/images/4.PNG)
 
 ## Пингуем коммутатор и маршрутизатор
 
-# ![image5](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/5.PNG)
+# ![image5](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%961.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/4.%20%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E%2C%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0/images/5.PNG)
 
 
 # `Telnet` - настройка на коммутаторе 
@@ -158,7 +158,7 @@ username admin secret 5 $1$mERr$vTbHul1N28cEp8lkLqr0f/ # Зашифрованн�
 Switch(config)#
 ```
 `Проверка работоспособности`
-# ![image6](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/6.PNG)
+# ![image6](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%961.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/4.%20%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E%2C%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0/images/6.PNG)
 
 # `SSH` - настройка на маршрутизаторе
 ```
@@ -195,9 +195,9 @@ wr
 Building configuration...
 [OK]
 ```
-# ![image7](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/7.PNG)
+# ![image7](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%961.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/4.%20%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E%2C%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0/images/7.PNG)
 
-# ![image8](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/8.PNG)
+# ![image8](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%961.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/4.%20%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E%2C%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0/images/8.PNG)
 
 
 # Авторизация Swich
@@ -210,6 +210,6 @@ Building configuration...
 `User` - admin
 `pass` - admin
 `enable` - Cisco
-# ![image8](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/9.PNG)
+# ![image8](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%961.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/4.%20%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E%2C%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0/images/9.PNG)
 
-# [Скачать файл.pkt](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/file.pkt) 
+# [Скачать файл.pkt](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%961.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/4.%20%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E%2C%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0/file.pkt) 
