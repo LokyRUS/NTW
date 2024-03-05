@@ -24,7 +24,7 @@
 # Ответ
 - Выполним команду ping до адреса `ya.ru` пакетами размером 1600 байт. 
 
-# ![image 1](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/2.%20IPv4-IPv6%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B8.%20%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%BE%D0%B2%20%D0%B8%20%D0%B2%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8F%20%D0%B2%20%D0%BD%D0%B8%D1%85./1.PNG)
+# ![image 1](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/2.%20IPv4-IPv6%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B8.%20%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%BE%D0%B2%20%D0%B8%20%D0%B2%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8F%20%D0%B2%20%D0%BD%D0%B8%D1%85./images/1.PNG)
 
 До указанного адреса отправлено `8` пакетов, однако ответ не был получен, так как превышен максимально допустимый размер. 
 
@@ -35,7 +35,7 @@
 - `Флаг №2 Второй бит` - в нашем случае, значение первого бита ноль, то допускается фрагментация пакетов, но если будет единице, то устройства сети не будут выполнять фрагментацию;
 - `Флаг №3 Третий бит` - в нашем случае равен нулю, значит, нет последовательности фрагментированных пакетов. Однако если будет единица, то для конечных узлов это будет означать, что начинается последовательность фрагментированных пакетов, и нужно ждать ещё пакеты, чтобы собрать изначально разделённый пакет.
 
-# ![image 1-1](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/1-1.PNG)
+# ![image 1-1](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/2.%20IPv4-IPv6%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B8.%20%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%BE%D0%B2%20%D0%B8%20%D0%B2%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8F%20%D0%B2%20%D0%BD%D0%B8%D1%85./images/1-1.PNG)
 #  IP-фрагмент
 - `Флаг №1 Первый бит` -  ноль;
 
@@ -66,11 +66,11 @@
 # Ответ 
 
 
-# ![image 2](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/2.PNG)
+# ![image 2](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/2.%20IPv4-IPv6%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B8.%20%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%BE%D0%B2%20%D0%B8%20%D0%B2%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8F%20%D0%B2%20%D0%BD%D0%B8%D1%85./images/2.PNG)
 
  ### *- В трассировке 6 hops*
  
- # ![image 3](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/3.PNG)
+ # ![image 3](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/2.%20IPv4-IPv6%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B8.%20%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%BE%D0%B2%20%D0%B8%20%D0%B2%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8F%20%D0%B2%20%D0%BD%D0%B8%D1%85./images/3.PNG)
  
  ### *- Значения TTL для каждого хопа:*
  - Hop1 = `ttl=1`
@@ -82,9 +82,9 @@
  
  ### *- тип icmp сообщения возвращающийся на каждом этапе трассировки*
   
-  # ![image 4](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/4.PNG)
+  # ![image 4](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/2.%20IPv4-IPv6%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B8.%20%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%BE%D0%B2%20%D0%B8%20%D0%B2%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8F%20%D0%B2%20%D0%BD%D0%B8%D1%85./images/4.PNG)
 - Time - to - live exceeded означает, что время выживания закончилось. 
 
 
 ### *src\dst адреса установлены в заголовке IPv4 для пакетов на каждом хопе, отличаются по тому, что адрес назначения у нас всегда конечное устройство, а получаемые пакеты приходят от промежуточных устройств, в зависимости от установленного ttl, например, при ttl=1 первый же маршрутизатор возвращает обратно ICMP-сообщение, далее увеличивается ttl+1 и так до конечного устройства.*
- # ![image 5](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/5.PNG)
+ # ![image 5](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/2.%20IPv4-IPv6%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B8.%20%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%BE%D0%B2%20%D0%B8%20%D0%B2%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8F%20%D0%B2%20%D0%BD%D0%B8%D1%85./images/5.PNG)
