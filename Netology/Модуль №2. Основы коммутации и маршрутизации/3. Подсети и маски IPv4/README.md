@@ -35,7 +35,7 @@
 
 # [файл Excel](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/%D0%A0%D0%B0%D1%81%D1%87%D0%B5%D1%82%20ip%201-1.xlsx)
 
-# ![images1](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/1-1.PNG)
+# ![images1](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/3.%20%D0%9F%D0%BE%D0%B4%D1%81%D0%B5%D1%82%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%81%D0%BA%D0%B8%20IPv4/images/1-1.PNG)
 
 ### Задание 3.
 
@@ -54,7 +54,7 @@
 в)172.16.30.1
 # [файл Excel2](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/%D0%A0%D0%B0%D1%81%D1%87%D0%B5%D1%82%20ip2.xlsx)
 
-# ![images2](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/2.PNG)
+# ![images2](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/3.%20%D0%9F%D0%BE%D0%B4%D1%81%D0%B5%D1%82%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%81%D0%BA%D0%B8%20IPv4/images/2.PNG)
 
 ### Задание 4.
 
@@ -72,7 +72,7 @@
 
 # [файл Excel3](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/%D0%A0%D0%B0%D1%81%D1%87%D0%B5%D1%82%20ip%203.xlsx)
 
-# ![images3](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/3.PNG)
+# ![images3](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/3.%20%D0%9F%D0%BE%D0%B4%D1%81%D0%B5%D1%82%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%81%D0%BA%D0%B8%20IPv4/images/3.PNG)
 
 #### Ответ на вопрос: Нет, потому что пересечение сетей допускать нельзя. 
 ### Задание 5.
@@ -97,24 +97,7 @@
 
 # [файл Excel](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/%D0%A0%D0%B0%D1%81%D1%87%D0%B5%D1%82%20ip%204.xlsx)
 
-# ![images4](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/4.PNG)
-## Дополнительные задания (со звездочкой*)
+# ![images4](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/3.%20%D0%9F%D0%BE%D0%B4%D1%81%D0%B5%D1%82%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%81%D0%BA%D0%B8%20IPv4/images/4.PNG)
 
-Эти задания дополнительные (не обязательные к выполнению) и никак не повлияют на получение вами зачета по этому домашнему заданию. Вы можете их выполнить, если хотите глубже и/или шире разобраться в материале.
 
----
 
-### Задание 6*.
-
-Необходимо выделить подсети из диапазона 10.0.0.0/8 на пользователей предприятия: 
-
-- Группа 1 — 130 хостов, 
-- Группа 2 — 150 хостов, 
-- Группа 3 200 хостов, 
-- Группа серверы 1 — 10 хостов, 
-- Группа серверы 2 — 20 хостов, 
-- Группа управления оборудованием — 30 хостов. 
-
-Зарезервировать 8 подсетей с префиксом /30 для соединительных сетей. Необходимо выделить нужное количество подсетей для каждой группы. 
-
-*Результат представить в виде таблицы (как в примере на занятии) и перечня внизу таблицы для каждой группы с указанием адресов сети, шлюза и broadcast адреса.*
