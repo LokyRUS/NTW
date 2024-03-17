@@ -1,5 +1,5 @@
 # `Маршрутизация. Шлюз по умолчанию.  Выбор лучшего маршрута.`
-# Исполнитель: Смирнов Кирилл NTW-28
+
 
 ### Цель задания
 
@@ -18,7 +18,8 @@
   
 Сделайте вывод, как административная дистанция влияет на маршрут.
 
-<img width="737"  src="https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/99-1.PNG">
+<img width="737"  src="https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./images/99-1.PNG">
+
 
 *Приведите ответ в свободной форме и пришлите pkt-файл.*
 
@@ -185,9 +186,9 @@ Router#
 ```
 `Пингуем и делаем трасировку для проверки`
 
-# ![images1](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/1.PNG)
+# ![images1](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./images/1.PNG)
 
-# ![images2](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/2.PNG)
+# ![images2](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./images/2.PNG)
 
 # [Первая часть задания - скачать pkt-файл ](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/zadanie%201%20chast%201%20.pkt)
 
@@ -236,9 +237,9 @@ Router#
 ``` 
 `Пингуем и делаем трасировку для проверки`
 
-# ![images3](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/3.PNG)
+# ![images3](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./images/3.PNG)
 
-# ![images4](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/4.PNG)
+# ![images4](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./images/4.PNG)
 
 `Резервный путь`
 
@@ -273,8 +274,8 @@ Router#
 `проверка`
 Для корректной работы следует отключить основную линию связи полностью, иначе пинг может не вернуться, а пойти по работоспособному куску главной линии. 
 На скриншоте видно как поменялся маршрут. В этом минус статической маршрутизации при использовании в кольцевой топологии.
-# ![images5](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/5.PNG)
-# ![images6](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/6.PNG)
+# ![images5](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./images/5.PNG)
+# ![images6](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./images/6.PNG)
 
 # [Вторая часть задания - скачать pkt-файл ](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/zadanie%201%20chast%202.pkt)
 
@@ -291,7 +292,7 @@ Router#
 
 Как подключение маршрутизаторов повлияло на метрики выбора маршрута и почему, какие выводы вы можете сделать до и после подключения.
 
-<img width="737"  src="https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/99-2.PNG">
+<img width="737"  src="https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./images/99-2.PNG">
 *Приведите ответ в свободной форме и пришлите pkt файл.*
 
 ---
@@ -491,11 +492,11 @@ Router(config-router)#network 192.168.20.0
 Router(config-router)#exit
 ```
 
-# ![image7](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/7.PNG)
+# ![image7](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./images/7.PNG)
 
 Проверка работоспособности и видно, что пакеты идут через вернюю магистрать, это связанно с меньшим коолличесвом хопов или выбор кратчайшего пути.
 
-# ![image8](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/8.PNG)
+# ![image8](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./images/8.PNG)
 # [Первая часть задания - скачать pkt-файл ](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/Zadanie2%20chast1.pkt)
 
 # Вторая часть задания, подлючит дополнительно два маршрутизатора. 
@@ -503,25 +504,15 @@ Router(config-router)#exit
 Настройки новых марштуризаторов аналогичные вышеизложенным. 
 Единственное, было переназначение ip адресов на итерфесов, которые задействованы в смене топологии. 
 
-# ![image9](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/9.PNG)
+# ![image9](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./images/9.PNG)
 
 # Проведя трасировку, видно как пакеты идут по кратчайшему пути с наименьшик колличеством хопов.
 
-# ![image10](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/10.PNG)
+# ![image10](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./images/10.PNG)
 # [Вторая часть задания (Итог) - скачать pkt-файл ](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/Zadanie2%20chast2.pkt)
 
 
-### Правила приема домашнего задания
 
-В личном кабинете отправленs:
-- ссылка на документ (Google Doc) с выполненным заданием. В документе настроены права доступа “Просматривать могут все в Интернете, у кого есть ссылка”;  
-- pkt файл.
-
-### Критерии оценки
-
-Зачет - выполнены все задания, ответы даны в развернутой форме, приложены соответствующие скриншоты и файлы проекта, в выполненных заданиях нет противоречий и нарушения логики.
-
-На доработку - задание выполнено частично или не выполнено, в логике выполнения заданий есть противоречия, существенные недостатки.
 
 
 
