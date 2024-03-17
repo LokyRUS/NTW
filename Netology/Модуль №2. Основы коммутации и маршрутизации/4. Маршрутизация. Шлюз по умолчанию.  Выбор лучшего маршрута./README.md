@@ -24,8 +24,8 @@
 *Приведите ответ в свободной форме и пришлите pkt-файл.*
 
 # Ответ
-# [Первая часть задания №1 - скачать pkt-файл ](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/zadanie%201%20chast%201%20.pkt)
-# [Вторая часть задания №1 (Итог) - скачать pkt-файл ](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/zadanie%201%20chast%202.pkt)
+# [Первая часть задания №1 - скачать pkt-файл ](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./zadanie%201%20chast%201%20.pkt)
+# [Вторая часть задания №1 (Итог) - скачать pkt-файл ](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./zadanie%201%20chast%202.pkt)
 
 #	 Настройка интерфейса Gi0/0 на Router0
 
@@ -190,7 +190,7 @@ Router#
 
 # ![images2](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./images/2.PNG)
 
-# [Первая часть задания - скачать pkt-файл ](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/zadanie%201%20chast%201%20.pkt)
+# [Первая часть задания - скачать pkt-файл ](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./zadanie%201%20chast%201%20.pkt)
 
 # Вторая часть задания маршрутизация через  верхний путь Router0-Router2-Router1, нижний путь Router0 и Router1 остается запасным.
 
@@ -277,7 +277,7 @@ Router#
 # ![images5](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./images/5.PNG)
 # ![images6](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./images/6.PNG)
 
-# [Вторая часть задания - скачать pkt-файл ](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/zadanie%201%20chast%202.pkt)
+# [Вторая часть задания - скачать pkt-файл ](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./zadanie%201%20chast%202.pkt)
 
 
 
@@ -298,8 +298,8 @@ Router#
 ---
 # Ответ
 
-# [Первая часть задания №2 - скачать pkt-файл ](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/Zadanie2%20chast1.pkt)
-# [Вторая часть задания №2 (Итог) - скачать pkt-файл ](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/Zadanie2%20chast2.pkt)
+# [Первая часть задания №2 - скачать pkt-файл ](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./Zadanie2%20chast1.pkt)
+# [Вторая часть задания №2 (Итог) - скачать pkt-файл ](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./Zadanie2%20chast2.pkt)
 
 # Настройка роутера Ruter0
 
@@ -497,7 +497,7 @@ Router(config-router)#exit
 Проверка работоспособности и видно, что пакеты идут через вернюю магистрать, это связанно с меньшим коолличесвом хопов или выбор кратчайшего пути.
 
 # ![image8](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./images/8.PNG)
-# [Первая часть задания - скачать pkt-файл ](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/Zadanie2%20chast1.pkt)
+# [Первая часть задания - скачать pkt-файл ](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./Zadanie2%20chast1.pkt)
 
 # Вторая часть задания, подлючит дополнительно два маршрутизатора. 
 
@@ -509,7 +509,7 @@ Router(config-router)#exit
 # Проведя трасировку, видно как пакеты идут по кратчайшему пути с наименьшик колличеством хопов.
 
 # ![image10](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./images/10.PNG)
-# [Вторая часть задания (Итог) - скачать pkt-файл ](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/Zadanie2%20chast2.pkt)
+# [Вторая часть задания (Итог) - скачать pkt-файл ](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/4.%20%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%A8%D0%BB%D1%8E%D0%B7%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.%20%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B3%D0%BE%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0./Zadanie2%20chast2.pkt)
 
 
 
