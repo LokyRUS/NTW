@@ -28,8 +28,9 @@
 ```console
 dig google.com AAAA
 ```
-# ![images1](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/1.PNG)
+# ![images1](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/5.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20IPv6/images/1.PNG)
 ---
+
 
 ### Задание 3.
 
@@ -59,7 +60,7 @@ d)2001:DB80::/27
 
 # Ответ
 
-# ![images2](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/2.PNG)
+# ![images2](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/5.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20IPv6/images/2.PNG)
 
 # настройка Router0
 ```
@@ -93,7 +94,7 @@ Router(config)#
 ```
 Router#ping 2001::140
 ```
-# ![images3](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/3.PNG)
+# ![images3](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/5.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20IPv6/images/3.PNG)
 
 # [Файл](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/Zadanie4.pkt)
 
@@ -139,7 +140,7 @@ Router(config)#ipv6 unicast-routing
 Router(config)#
 ```
 
-# ![images4]()
+# ![images4](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/5.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20IPv6/images/4.PNG)
 
 # Настройка Router0 (Gig/01)
 ```
@@ -166,7 +167,7 @@ Router(config)#ipv6 unicast-routing
 Router(config)#
 ```
 
-# ![images5]()
+# ![images5](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/5.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20IPv6/images/5.PNG)
 
 # [Файл](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/Zadanie5.pkt)
 
