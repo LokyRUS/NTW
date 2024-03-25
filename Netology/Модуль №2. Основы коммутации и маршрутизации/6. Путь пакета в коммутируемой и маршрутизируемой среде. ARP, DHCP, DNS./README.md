@@ -15,15 +15,15 @@
 ---
 # Ответ
 `Работа протокола arp`
-# ![images1](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/1.PNG)
+# ![images1](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/6.%20%D0%9F%D1%83%D1%82%D1%8C%20%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%B0%20%D0%B2%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D0%B9%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D0%B9%20%D1%81%D1%80%D0%B5%D0%B4%D0%B5.%20ARP%2C%20DHCP%2C%20DNS./images/1.PNG)
 
 `Работа протокола DNS`
-# ![images2](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/2.PNG)
+# ![images2](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/6.%20%D0%9F%D1%83%D1%82%D1%8C%20%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%B0%20%D0%B2%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D0%B9%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D0%B9%20%D1%81%D1%80%D0%B5%D0%B4%D0%B5.%20ARP%2C%20DHCP%2C%20DNS./images/2.PNG)
 
-# ![images3](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/3.PNG)
+# ![images3](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/6.%20%D0%9F%D1%83%D1%82%D1%8C%20%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%B0%20%D0%B2%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D0%B9%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D0%B9%20%D1%81%D1%80%D0%B5%D0%B4%D0%B5.%20ARP%2C%20DHCP%2C%20DNS./images/3.PNG)
 
 `Принудительное обращение к DNS Google 8.8.8.8`
-# ![images2](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/4.PNG)
+# ![images2](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/6.%20%D0%9F%D1%83%D1%82%D1%8C%20%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%B0%20%D0%B2%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D0%B9%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D0%B9%20%D1%81%D1%80%D0%B5%D0%B4%D0%B5.%20ARP%2C%20DHCP%2C%20DNS./images/4.PNG)
 
 ### Задание 2.
 
@@ -56,7 +56,7 @@
 ---
 # Ответ
 
-# [Файл.pkt](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/Zadanie3.pkt)
+# [Файл.pkt](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/6.%20%D0%9F%D1%83%D1%82%D1%8C%20%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%B0%20%D0%B2%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D0%B9%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D0%B9%20%D1%81%D1%80%D0%B5%D0%B4%D0%B5.%20ARP%2C%20DHCP%2C%20DNS./images/Zadanie3.pkt)
 
 # Настроим dhcp сервер на роутерах для раздачи ip адресов для наших pc
 `Router0`
@@ -146,18 +146,18 @@ Router(config)#exit
 
 # Таблица коммутации и таблица маршрутизации
 
-# ![images5](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/5.PNG)
+# ![images5](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/6.%20%D0%9F%D1%83%D1%82%D1%8C%20%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%B0%20%D0%B2%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D0%B9%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D0%B9%20%D1%81%D1%80%D0%B5%D0%B4%D0%B5.%20ARP%2C%20DHCP%2C%20DNS./images/5.PNG)
 
 1. этап. При обмене данными на первом этапе L2 уровня, в рамках локальной мети, будет происходить обмен пакетами на уровне mac адресации как видно из примера, отправленный пакет с хоста адресован мак адресу Роутера, потому хост уже знает, запрашиваемый  им Ip адрес находится ЗА указанным им мак адресом. И пакет идёт в направлении коммутатора
-# ![images6](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/6.PNG)
+# ![images6](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/6.%20%D0%9F%D1%83%D1%82%D1%8C%20%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%B0%20%D0%B2%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D0%B9%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D0%B9%20%D1%81%D1%80%D0%B5%D0%B4%D0%B5.%20ARP%2C%20DHCP%2C%20DNS./images/6.PNG)
 
 2. Далее идёт отправка пакета в направлении роутера от коммутатора с его макадресом назначения и происходит дальнейшая инкапсуляция. 
 
-# ![images7](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/7.PNG)
+# ![images7](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/6.%20%D0%9F%D1%83%D1%82%D1%8C%20%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%B0%20%D0%B2%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D0%B9%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D0%B9%20%D1%81%D1%80%D0%B5%D0%B4%D0%B5.%20ARP%2C%20DHCP%2C%20DNS./images/7.PNG)
 
 3. На L3 уровне отправка осуществляется на адрес по маршруту с использованием Ip адресации, за которым находится адрес назначения.
 
-# ![images8](https://github.com/LokyRUS/homework-NTW-28/blob/nevidimka/images/8.PNG)
+# ![images8](https://github.com/LokyRUS/NTW/blob/nevidimka/Netology/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%E2%84%962.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8/6.%20%D0%9F%D1%83%D1%82%D1%8C%20%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%B0%20%D0%B2%20%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D0%B9%20%D0%B8%20%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D0%BE%D0%B9%20%D1%81%D1%80%D0%B5%D0%B4%D0%B5.%20ARP%2C%20DHCP%2C%20DNS./images/8.PNG)
 
 4. Далее происходит декапсуляция пакета и цикл повторяется в обратном направлении, но с учётом ответа адреса назначения.
 
